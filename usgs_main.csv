@@ -853,3 +853,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T22:41:00.750Z,35.8683333,-117.654,4.77,-0.02,ml,11.0,106.0,0.06972,0.06,ci,ci40200984,2022-03-07T15:14:03.717Z,"24km ESE of Little Lake, CA",earthquake,0.17,0.36,0.21,5.0,reviewed,ci,ci
 2022-03-07T15:33:23.860Z,38.8344994,-122.8099976,2.0,1.18,md,12.0,73.0,0.01109,0.02,nc,nc73702471,2022-03-07T15:34:58.806Z,"8km W of Cobb, CA",earthquake,0.33,0.82,,1.0,automatic,nc,nc
 2022-03-07T15:30:05.280Z,33.5616667,-116.7675,27.49,0.74,ml,11.0,86.0,0.02549,0.26,ci,ci40201296,2022-03-07T15:33:42.155Z,"9km W of Anza, CA",earthquake,1.31,2.89,0.269,12.0,automatic,ci,ci
+2022-03-07T15:37:47.200Z,33.9481667,-116.721,14.52,1.47,ml,41.0,51.0,0.1087,0.18,ci,ci40201312,2022-03-07T15:48:17.790Z,"7km ENE of Cabazon, CA",earthquake,0.24,0.47,0.173,27.0,automatic,ci,ci
