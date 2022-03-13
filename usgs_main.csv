@@ -2365,3 +2365,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T01:25:53.220Z,33.1198333,-117.1933333,17.84,0.71,ml,16.0,178.0,0.04524,0.3,ci,ci40206344,2022-03-13T01:29:28.946Z,"4km SW of San Marcos, CA",earthquake,1.35,1.74,0.18,6.0,automatic,ci,ci
 2022-03-13T01:22:03.812Z,61.7568,-149.886,32.8,1.5,ml,,,,0.74,ak,ak0223b3f57b,2022-03-13T01:32:51.135Z,"8 km E of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-13T01:11:03.702Z,22.6979,94.5421,108.51,4.5,mb,,63.0,3.009,0.88,us,us6000h43x,2022-03-13T01:32:30.040Z,"89 km NW of Monywa, Myanmar",earthquake,10.2,7.4,0.075,55.0,reviewed,us,us
+2022-03-13T02:38:59.130Z,34.1395,-117.4641667,5.34,1.08,ml,29.0,57.0,0.04506,0.18,ci,ci40206432,2022-03-13T02:42:32.392Z,"5km N of Fontana, CA",earthquake,0.31,0.63,0.162,28.0,automatic,ci,ci
+2022-03-13T02:19:13.645Z,60.7487,-148.5381,12.0,1.9,ml,,,,0.55,ak,ak0223b3zyf2,2022-03-13T02:21:54.122Z,"8 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-13T02:18:24.690Z,33.9726667,-116.6891667,16.08,0.7,ml,19.0,69.0,0.07407,0.2,ci,ci40206416,2022-03-13T02:21:48.565Z,"11km NE of Cabazon, CA",earthquake,0.49,1.03,0.119,17.0,automatic,ci,ci
