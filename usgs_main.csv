@@ -4116,3 +4116,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T07:56:39.823Z,63.0259,-149.3664,83.3,1.5,ml,,,,0.57,ak,ak0223l4f6xa,2022-03-19T07:59:55.523Z,"45 km SSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-19T08:21:10.288Z,61.3648,-150.0087,39.0,2.3,ml,,,,0.63,ak,ak0223l4t26o,2022-03-19T08:29:24.156Z,"1 km WNW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-19T08:21:08.890Z,38.7973328,-122.7498322,1.92,1.08,md,23.0,96.0,0.008391,0.04,nc,nc73707611,2022-03-19T08:22:44.372Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.43,0.1,6.0,automatic,nc,nc
+2022-03-19T08:38:35.047Z,61.554,-149.83,40.3,1.5,ml,,,,0.55,ak,ak0223l4wr9s,2022-03-19T08:40:43.610Z,"7 km ENE of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
