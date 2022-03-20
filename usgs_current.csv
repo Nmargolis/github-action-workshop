@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-20T11:17:40.580Z,38.7734985,-122.7143326,1.81,0.86,md,9,95,0.01291,0.02,nc,nc73708051,2022-03-20T11:19:17.192Z,"2km W of Anderson Springs, CA",earthquake,0.33,0.46,0.31,4,automatic,nc,nc
 2022-03-20T11:05:12.800Z,33.3846667,-116.415,8.8,0.75,ml,18,103,0.09096,0.18,ci,ci39972887,2022-03-20T11:08:47.864Z,"15km NNW of Borrego Springs, CA",earthquake,0.62,1.68,0.112,11,automatic,ci,ci
 2022-03-20T10:56:36.890Z,35.6866667,-117.475,3.64,0.88,ml,9,164,0.1005,0.14,ci,ci39972879,2022-03-20T11:00:03.917Z,"11km SW of Searles Valley, CA",earthquake,0.75,1.29,0.163,7,automatic,ci,ci
 2022-03-20T10:54:48.540Z,19.2458324432373,-155.394836425781,32.6199989318848,2.08,ml,47,136,,0.140000001,hv,hv72956597,2022-03-20T11:00:20.820Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.720000029,0.16,3,automatic,hv,hv
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T11:32:26.820Z,33.9803333,-116.9916667,14.18,0.82,ml,13,134,0.05951,0.09,ci,ci39972119,2022-03-19T11:36:03.922Z,"6km E of Calimesa, CA",earthquake,0.29,0.57,0.114,15,automatic,ci,ci
 2022-03-19T11:30:15.060Z,17.9701666666667,-66.8913333333333,15.43,2.42,md,10,195,,0.17,pr,pr71340858,2022-03-19T12:40:55.930Z,"0 km SSW of Maria Antonia, Puerto Rico",earthquake,0.61,0.7,0.0716092786262372,5,reviewed,pr,pr
 2022-03-19T11:29:26.873Z,61.9435,-151.3975,81.9,2.1,ml,,,,0.44,ak,ak0223l6n40z,2022-03-19T11:36:00.475Z,"5 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-19T11:21:46.497Z,59.3633,-152.7042,69.3,2.3,ml,,,,0.5,ak,ak0223l6lftr,2022-03-19T11:35:59.682Z,"44 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
