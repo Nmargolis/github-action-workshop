@@ -5025,3 +5025,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T22:38:35.680Z,19.257999420166,-155.379669189453,29.3500003814697,2.24000001,md,34.0,135.0,,0.129999995,hv,hv72959467,2022-03-22T22:41:38.260Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.64,0.790000021,1.08000004,17.0,automatic,hv,hv
 2022-03-22T22:38:22.050Z,35.2174988,-120.3458328,1.61,1.61,ml,8.0,112.0,0.1577,0.14,ci,ci39974783,2022-03-22T22:41:53.187Z,"23km NNE of Nipomo, CA",earthquake,0.6,1.51,0.063,2.0,automatic,ci,ci
 2022-03-22T07:34:43.131Z,39.564,-120.3883,0.0,-0.4,ml,3.0,198.05,0.219,0.0874,nn,nn00835803,2022-03-22T22:46:38.040Z,"3 km SSW of Sierraville, California",earthquake,,0.0,0.16,2.0,reviewed,nn,nn
+2022-03-22T21:29:46.670Z,39.4216667,-110.3121667,-1.7,1.61,md,6.0,195.0,0.01031,0.04,uu,uu60486687,2022-03-22T22:50:33.180Z,"15 km SSE of Sunnyside, Utah",earthquake,1.59,1.04,0.155,5.0,reviewed,uu,uu
