@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T08:57:24.646Z,38.4976,-118.3241,2.3,1.9,ml,16,98.27,0.284,0.3548,nn,nn00835824,2022-03-23T09:01:09.136Z,"22 km WNW of Mina, Nevada",earthquake,,2,0.18,9,automatic,nn,nn
 2022-03-23T08:50:08.770Z,19.234167098999,-155.431838989258,27.8400001525879,1.74000001,md,12,195,,0.0900000036,hv,hv72959797,2022-03-23T08:53:18.580Z,"6 km NE of Pāhala, Hawaii",earthquake,1,1.55999994,0.689999998,3,automatic,hv,hv
 2022-03-23T08:26:44.031Z,-23.5729,-66.8168,226.54,4.4,mb,,120,1.396,0.46,us,us6000h6w7,2022-03-23T08:48:16.040Z,"87 km NW of San Antonio de los Cobres, Argentina",earthquake,12,8.9,0.219,6,reviewed,us,us
 2022-03-23T08:19:24.390Z,35.9963333,-117.695,2.03,0.79,ml,8,174,0.06038,0.14,ci,ci39975087,2022-03-23T08:22:59.120Z,"20km ENE of Little Lake, CA",earthquake,0.71,0.44,0.199,7,automatic,ci,ci
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T02:19:45.650Z,35.9151667,-117.7055,8.89,0.77,ml,16,62,0.05539,0.14,ci,ci39974991,2022-03-23T02:23:27.249Z,"18km E of Little Lake, CA",earthquake,0.37,0.67,0.16,10,automatic,ci,ci
 2022-03-23T02:18:15.130Z,17.8485,-66.863,6.58,1.54,md,4,254,,0.12,pr,pr71341518,2022-03-23T03:59:03.900Z,"14 km SSE of Guánica, Puerto Rico",earthquake,1.09,0.46,0.0877505116895372,4,reviewed,pr,pr
 2022-03-23T01:59:58.791Z,61.8781,-151.1067,64.1,1.9,ml,,,,0.67,ak,ak0223rn0nvy,2022-03-23T02:27:53.031Z,"19 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T08:01:34.921Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
+2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T09:04:28.696Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
 2022-03-23T01:55:54.199Z,23.385,121.5934,10,4.5,mb,,98,0.272,0.77,us,us6000h6v1,2022-03-23T05:27:33.118Z,"65 km S of Hualien City, Taiwan",earthquake,2.5,1.5,0.135,16,reviewed,us,us
 2022-03-23T01:54:31.081Z,-14.1429,-14.2239,10,5.1,mb,,53,6.173,0.56,us,us6000h6v0,2022-03-23T02:16:03.040Z,"southern Mid-Atlantic Ridge",earthquake,8.6,1.8,0.058,98,reviewed,us,us
 2022-03-23T01:41:58.980Z,17.9681666666667,-66.9615,10.8,2.46,md,14,187,,0.19,pr,pr71341513,2022-03-23T03:20:54.280Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.49,0.72,0.170535164758914,8,reviewed,pr,pr
@@ -286,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T09:13:20.720Z,33.3253333,-116.3743333,8.37,0.73,ml,16,158,0.06558,0.12,ci,ci39974079,2022-03-22T14:28:49.708Z,"8km N of Borrego Springs, CA",earthquake,0.25,0.56,0.157,13,reviewed,ci,ci
 2022-03-22T09:07:52.750Z,38.8383331,-122.7993317,1.56,0.64,md,7,102,0.00702,0.04,nc,nc73708701,2022-03-22T09:26:13.224Z,"7km WNW of Cobb, CA",earthquake,0.48,1.37,,1,automatic,nc,nc
 2022-03-22T09:07:48.910Z,31.53971532,-104.0760065,7.802587891,2.1,ml,16,72,0.01935559893,0.2,tx,tx2022fqwj,2022-03-22T18:24:33.996Z,"36 km NW of Toyah, Texas",earthquake,1.080426048,1.001986454,0.1,6,reviewed,tx,tx
-2022-03-22T08:58:28.660Z,37.391,-118.7048333,0.46,1.16,md,14,160,0.1189,0.14,nc,nc73708696,2022-03-22T16:44:16.823Z,"10km WSW of Round Valley, CA",earthquake,0.6,31.61,0.076,14,reviewed,nc,nc
