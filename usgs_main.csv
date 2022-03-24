@@ -5563,3 +5563,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T17:08:57.640Z,33.7766667,-116.9251667,14.11,0.8,ml,17.0,153.0,0.04736,0.12,ci,ci39976847,2022-03-24T17:42:16.074Z,"3km ESE of San Jacinto, CA",earthquake,0.61,0.45,0.231,9.0,reviewed,ci,ci
 2022-03-24T14:53:24.673Z,41.9644,-119.5879,1.5,2.7,ml,5.0,145.99,0.536,0.1406,nn,nn00835935,2022-03-24T17:52:08.080Z,"48 km ENE of Fort Bidwell, California",earthquake,,5.1,0.74,4.0,reviewed,nn,nn
 2022-03-24T14:26:15.640Z,33.0426667,-115.5708333,8.29,0.77,ml,8.0,145.0,0.01029,0.22,ci,ci37405092,2022-03-24T17:46:13.620Z,"5km E of Westmorland, CA",earthquake,0.91,1.61,0.187,5.0,reviewed,ci,ci
+2022-03-24T17:55:48.120Z,33.3253326,-116.3806686,8.44,1.03,ml,30.0,68.0,0.06466,0.15,ci,ci39976935,2022-03-24T17:57:53.260Z,"8km N of Borrego Springs, CA",earthquake,0.37,0.77,0.235,10.0,automatic,ci,ci
