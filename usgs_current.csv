@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-26T11:32:23.720Z,35.9781685,-120.1855011,18.16,2.54,md,48,61,0.1324,0.2,nc,nc73710541,2022-03-26T11:38:13.332Z,"6km WSW of Avenal, CA",earthquake,0.38,0.66,0.12,38,automatic,nc,nc
-2022-03-26T11:25:09.658Z,63.9514,-148.8984,107.5,0.9,ml,,,,0.37,ak,ak0223wrdn5s,2022-03-26T11:27:41.545Z,"11 km NNE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-03-26T11:41:21.186Z,37.3397,-115.0205,12.7,2.7,ml,27,84.97,0.738,0.3811,nn,nn00836078,2022-03-26T11:45:21.701Z,"13 km ESE of Alamo, Nevada",earthquake,,0.5,0.35,19,automatic,nn,nn
+2022-03-26T11:40:08.288Z,60.4396,-151.9918,29.6,1.4,ml,,,,0.4,ak,ak0223wrguws,2022-03-26T11:46:35.241Z,"38 km WNW of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-26T11:32:23.720Z,35.9781685,-120.1855011,18.16,2.54,md,48,61,0.1324,0.2,nc,nc73710541,2022-03-26T11:39:12.193Z,"6km WSW of Avenal, CA",earthquake,0.38,0.66,0.12,38,automatic,nc,nc
+2022-03-26T11:25:09.658Z,63.9514,-148.8984,107.5,1.5,ml,,,,0.37,ak,ak0223wrdn5s,2022-03-26T11:46:06.254Z,"11 km NNE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-26T11:05:04.610Z,38.8170013,-122.760498,1.73,0.21,md,7,156,0.01533,0.01,nc,nc73710536,2022-03-26T11:22:13.092Z,"3km W of Cobb, CA",earthquake,0.49,1.1,0.16,2,automatic,nc,nc
 2022-03-26T10:30:20.506Z,60.2925,-152.3336,89.9,2.3,ml,,,,0.49,ak,ak0223wqtb35,2022-03-26T10:35:30.708Z,"45 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-26T10:28:53.904Z,37.2371,-117.1229,1.9,0.9,ml,9,137.92,0.127,0.2093,nn,nn00836074,2022-03-26T10:33:36.400Z,"48 km NW of Beatty, Nevada",earthquake,,4.4,0.76,4,automatic,nn,nn
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T12:05:28.930Z,38.8463326,-122.8181686,0.81,0.58,md,18,53,0.009247,0.05,nc,nc73710181,2022-03-25T14:19:16.492Z,"9km WNW of Cobb, CA",earthquake,0.21,0.43,0.2,3,automatic,nc,nc
 2022-03-25T12:02:27.454Z,61.3992,-149.9605,31.9,2.2,ml,,,,0.47,ak,ak0223v4auag,2022-03-25T12:06:27.110Z,"4 km NNE of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-25T11:57:39.750Z,34.5283333,-118.7613333,16.85,1.94,ml,63,31,0.09145,0.23,ci,ci39977727,2022-03-25T21:41:49.720Z,"13km NNE of Piru, CA",earthquake,0.24,0.58,0.184,25,reviewed,ci,ci
-2022-03-25T11:39:27.500Z,33.5353333,-116.7055,13.08,0.58,ml,24,70,0.05428,0.08,ci,ci39977719,2022-03-25T21:31:37.210Z,"4km SW of Anza, CA",earthquake,0.18,0.35,0.171,13,reviewed,ci,ci
