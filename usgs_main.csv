@@ -7073,3 +7073,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T21:28:14.689Z,59.4688,-147.0677,22.4,2.3,ml,,,,0.71,ak,ak02241vyocc,2022-03-29T21:32:01.707Z,"85 km SE of Chenega, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2022-03-29T21:00:27.610Z,40.4455,-111.9195,8.33,0.93,md,9.0,159.0,0.02757,0.11,uu,uu60487872,2022-03-29T21:32:28.420Z,"5 km SSE of Bluffdale, Utah",earthquake,0.4,0.73,0.375,4.0,reviewed,uu,uu
 2022-03-29T06:00:27.694Z,31.16431321,-103.205535,5.437451172,2.8,ml,12.0,75.0,0.03690043745,0.2,tx,tx2022gdkr,2022-03-29T21:32:41.401Z,"16 km WSW of Coyanosa, Texas",earthquake,1.695266176,1.270329942,0.2,18.0,reviewed,tx,tx
+2022-03-29T01:30:58.445Z,14.5353,-94.1275,10.0,4.5,mb,,124.0,2.588,0.56,us,us7000gxzk,2022-03-29T21:44:29.040Z,"144 km SW of La Esperanza (El Zapotal), Mexico",earthquake,9.8,1.9,0.051,110.0,reviewed,us,us
