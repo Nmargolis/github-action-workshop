@@ -7439,3 +7439,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T03:06:47.708Z,-22.3941,170.1236,10.0,5.7,mww,,80.0,2.485,0.66,us,us7000gyln,2022-03-31T03:25:38.371Z,"249 km ESE of Tadine, New Caledonia",earthquake,7.0,1.8,0.098,10.0,reviewed,us,us
 2022-03-31T03:04:06.529Z,61.0741,-150.5177,19.3,1.5,ml,,,,0.86,ak,ak02244w6emd,2022-03-31T03:06:44.852Z,"19 km NNE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-31T03:33:12.616Z,38.2209,-117.8503,9.7,2.5,ml,31.0,68.48,0.108,0.2457,nn,nn00836401,2022-03-31T03:36:56.737Z,Nevada,earthquake,,0.3,0.3,17.0,automatic,nn,nn
+2022-03-31T04:05:03.610Z,33.2186661,-116.0619965,5.39,1.11,ml,21.0,96.0,0.08379,0.19,ci,ci39982287,2022-03-31T04:07:15.523Z,"11km NE of Ocotillo Wells, CA",earthquake,0.36,0.96,0.079,6.0,automatic,ci,ci
+2022-03-31T04:03:35.101Z,59.2775,-152.5453,76.0,1.5,ml,,,,0.21,ak,ak02244wropy,2022-03-31T04:05:43.218Z,"36 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-03-31T04:00:24.169Z,60.1531,-153.0983,135.1,2.0,ml,,,,0.69,ak,ak02244wr0ql,2022-03-31T04:04:10.137Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-31T03:57:12.770Z,38.8370018,-122.8218307,2.14,1.2,md,24.0,59.0,0.01078,0.04,nc,nc73712531,2022-03-31T04:05:11.649Z,"9km W of Cobb, CA",earthquake,0.22,0.44,0.05,5.0,automatic,nc,nc
+2022-03-31T03:50:19.447Z,61.7666,-150.0572,46.1,1.2,ml,,,,0.43,ak,ak02244wgak8,2022-03-31T03:51:48.654Z,"2 km NNW of Willow, Alaska",earthquake,,2.4,,,automatic,ak,ak
