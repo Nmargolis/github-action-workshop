@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-06T09:29:56.003Z,60.9456,-152.4332,19.2,0.7,ml,,,,0.34,ak,ak0224ex4jxs,2022-04-06T09:33:14.054Z,"68 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-06T09:25:14.232Z,63.372,-145.183,5.9,1,ml,,,,0.39,ak,ak0224ex3lur,2022-04-06T09:33:14.999Z,"38 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-06T09:43:14.520Z,61.7705,-149.5793,28.6,1.4,ml,,,,0.56,ak,ak0224ex7grg,2022-04-06T09:46:17.769Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-06T09:40:31.590Z,63.2553,-150.6399,42.9,1.4,ml,,,,1.5,ak,ak0224ex6uwp,2022-04-06T09:46:17.061Z,"62 km ESE of Denali National Park, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2022-04-06T09:33:32.818Z,60.4352,-149.8646,23.9,2,ml,,,,0.37,ak,ak0224ex5d0h,2022-04-06T09:46:16.339Z,"6 km SSW of Cooper Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-06T09:29:56.003Z,60.9456,-152.4332,19.2,0.7,ml,,,,0.34,ak,ak0224ex4jxs,2022-04-06T09:35:00.027Z,"68 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-06T09:25:14.232Z,63.372,-145.183,5.9,1,ml,,,,0.39,ak,ak0224ex3lur,2022-04-06T09:38:25.922Z,"38 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-06T09:21:26.170Z,17.904,-66.8936666666667,14.29,1.98,md,8,248,,0.09,pr,pr71343563,2022-04-06T09:31:45.910Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.53,0.180553652362784,6,reviewed,pr,pr
 2022-04-06T08:59:37.390Z,38.8148346,-122.824501,2.15,1.05,md,20,57,0.006989,0.02,nc,nc73714981,2022-04-06T09:01:10.882Z,"7km NW of The Geysers, CA",earthquake,0.23,0.4,0.15,5,automatic,nc,nc
 2022-04-06T08:47:16.760Z,38.8235016,-122.7643356,9.31,1.06,md,9,176,0.00821,0.1,nc,nc73714971,2022-04-06T09:29:24.288Z,"4km W of Cobb, CA",earthquake,2.69,2.37,0.7,2,automatic,nc,nc
