@@ -11756,3 +11756,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T22:21:03.140Z,33.5205,-116.4951667,10.9,0.34,ml,15.0,89.0,0.04751,0.23,ci,ci40237744,2022-04-15T22:24:36.837Z,"17km ESE of Anza, CA",earthquake,0.53,0.99,0.16,8.0,automatic,ci,ci
 2022-04-15T22:19:56.630Z,40.4296684,-124.4003296,10.12,2.46,md,15.0,255.0,0.06635,0.06,nc,nc73718040,2022-04-15T22:33:18.198Z,"15km NW of Petrolia, CA",earthquake,1.22,0.44,0.08,9.0,automatic,nc,nc
 2022-04-15T15:44:41.467Z,36.3175,-115.3376,0.0,1.1,ml,5.0,164.7,0.237,0.2067,nn,nn00837277,2022-04-15T22:29:36.497Z,"22 km N of Summerlin South, Nevada",earthquake,,0.0,0.32,2.0,reviewed,nn,nn
+2022-04-15T17:28:46.251Z,36.8578,-115.6163,0.0,0.6,ml,6.0,313.95,0.269,0.2019,nn,nn00837278,2022-04-15T22:45:04.155Z,"32 km N of Indian Springs, Nevada",earthquake,,0.0,0.03,3.0,reviewed,nn,nn
