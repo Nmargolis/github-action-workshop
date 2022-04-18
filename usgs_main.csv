@@ -12359,3 +12359,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T05:14:29.498Z,38.2038,-117.7519,6.0,1.4,ml,16.0,116.06,0.132,0.2282,nn,nn00837352,2022-04-18T05:18:30.781Z,"37 km ESE of Mina, Nevada",earthquake,,0.6,0.74,10.0,automatic,nn,nn
 2022-04-18T05:37:08.670Z,19.24049949646,-155.384338378906,29.9099998474121,2.33999991,md,38.0,147.0,,0.109999999,hv,hv72988372,2022-04-18T05:40:17.710Z,"Island of Hawaii, Hawaii",earthquake,0.46,0.779999971,1.32000005,15.0,automatic,hv,hv
 2022-04-18T05:28:46.686Z,59.6564,-153.0789,111.6,2.0,ml,,,,0.5,ak,ak0224yp6r0s,2022-04-18T05:33:32.471Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-18T05:47:01.800Z,38.8144989,-122.8219986,2.39,0.67,md,15.0,69.0,0.007942,0.02,nc,nc73719460,2022-04-18T05:50:32.569Z,"7km NW of The Geysers, CA",earthquake,0.28,0.68,0.19,4.0,automatic,nc,nc
