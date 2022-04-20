@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T19:53:12.453Z,57.0506,-154.4239,28.3,3.5,ml,,,,0.6,ak,ak022528qsom,2022-04-20T20:05:31.862Z,"19 km NW of Akhiok, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-20T19:30:06.001Z,56.6733,-154.9341,0.9,2.4,ml,,,,0.58,ak,ak022528lurt,2022-04-20T19:34:01.117Z,"55 km WSW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-20T19:24:13.330Z,17.9648333333333,-66.8701666666667,18.53,2.18,md,7,200,,0.07,pr,pr71345213,2022-04-20T19:36:08.990Z,"2 km SE of Maria Antonia, Puerto Rico",earthquake,0.61,0.48,0.0156854862943074,4,reviewed,pr,pr
+2022-04-20T19:23:05.526Z,1.7279,-100.7652,10,4.8,mb,,191,15.884,0.83,us,us6000hf3c,2022-04-20T21:02:51.040Z,"Galapagos Triple Junction region",earthquake,14.3,2,0.046,148,reviewed,us,us
 2022-04-20T19:13:58.927Z,-61.2634,153.9335,10,5.8,mww,,47,16.538,0.68,us,us6000hf2z,2022-04-20T20:14:02.641Z,"Balleny Islands region",earthquake,12,1.8,0.069,20,reviewed,us,us
 2022-04-20T19:04:09.980Z,35.6633333,-117.4603333,6.73,0.81,ml,9,169,0.07668,0.13,ci,ci40242448,2022-04-20T19:07:47.146Z,"13km SSW of Searles Valley, CA",earthquake,0.63,1.26,0.258,6,automatic,ci,ci
 2022-04-20T19:01:57.220Z,33.669,-116.7195,13.16,0.56,ml,21,86,0.04229,0.14,ci,ci40242440,2022-04-20T19:59:30.198Z,"8km S of Idyllwild, CA",earthquake,0.32,0.5,0.1,13,reviewed,ci,ci
@@ -245,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T21:10:20.860Z,33.9896667,-116.7538333,14.97,1.56,ml,46,35,0.06377,0.19,ci,ci40241520,2022-04-19T21:14:04.685Z,"9km NNE of Cabazon, CA",earthquake,0.24,0.63,0.16,29,automatic,ci,ci
 2022-04-19T21:09:16.427Z,63.2338,-150.5081,118.7,1.8,ml,,,,0.48,ak,ak02250m4w9h,2022-04-19T21:15:22.552Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-19T21:08:48.390Z,32.9073333,-115.513,3.9,1.99,ml,15,92,0.04056,0.28,ci,ci40241512,2022-04-19T21:12:30.309Z,"8km SSE of Brawley, CA",earthquake,0.83,0.69,0.218,27,automatic,ci,ci
-2022-04-19T21:04:34.570Z,32.9108333,-115.5091667,7.53,2.45,ml,33,77,0.04435,0.23,ci,ci40241504,2022-04-19T22:45:29.330Z,"8km SSE of Brawley, CA",earthquake,0.3,0.48,0.158,12,reviewed,ci,ci
-2022-04-19T20:59:25.850Z,38.8058319,-122.8168335,2.84,0.83,md,14,71,0.01011,0.02,nc,nc73720400,2022-04-19T21:41:08.599Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.64,0.46,2,automatic,nc,nc
-2022-04-19T20:56:35.960Z,32.9465,-115.5123333,2.21,1.86,ml,15,154,0.0606,0.2,ci,ci40241488,2022-04-19T21:00:21.592Z,"4km SSE of Brawley, CA",earthquake,0.67,0.63,0.205,27,automatic,ci,ci
