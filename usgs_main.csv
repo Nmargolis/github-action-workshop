@@ -14509,3 +14509,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T20:43:04.071Z,35.13144684,-95.54930115,1.083366513,2.17,ml,23.0,93.68257141,0.09631096572,0.7558495128,ok,ok2022ibwj,2022-04-25T20:44:42.024Z,"10 km ESE of Canadian, Oklahoma",earthquake,3.168078163,2.09525113,,7.0,automatic,ok,ok
 2022-04-25T14:03:49.361Z,-20.6373,-69.6856,88.12,3.7,ml,,147.0,0.444,0.71,us,us6000hg81,2022-04-25T20:44:27.040Z,"67 km SE of Iquique, Chile",earthquake,4.4,8.2,0.071,26.0,reviewed,us,us
 2022-04-25T02:57:05.450Z,45.9941667,-111.3981667,5.88,0.65,ml,4.0,163.0,0.204,0.06,mb,mb80544094,2022-04-25T20:43:35.310Z,"4 km SSW of Ponderosa Pines, Montana",earthquake,0.63,6.05,0.275,2.0,reviewed,mb,mb
+2022-04-25T20:50:24.170Z,33.207,-116.7233333,12.04,0.55,ml,17.0,56.0,0.04144,0.14,ci,ci40246048,2022-04-25T20:54:00.711Z,"5km SE of Lake Henshaw, CA",earthquake,0.33,0.53,0.082,8.0,automatic,ci,ci
