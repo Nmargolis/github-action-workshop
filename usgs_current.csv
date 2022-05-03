@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T19:51:29.482Z,38.1784,-117.8246,8.8,1.5,ml,14,147.61,0.113,0.0972,nn,nn00838195,2022-05-03T02:38:30.758Z,"34 km SE of Mina, Nevada",earthquake,,2.4,0.84,5,reviewed,nn,nn
 2022-05-02T19:50:45.070Z,47.95216666666666,-124.36833333333334,32.41,1.6400000000000001,ml,9,130,0.1331,0.2,uw,uw61836136,2022-05-03T00:29:08.790Z,"1 km E of Forks, Washington",earthquake,0.8,0.68,0.10870736889129717,5,reviewed,uw,uw
 2022-05-02T19:48:19.669Z,28.9378,142.3649,10,4.4,mb,,239,7.883,0.53,us,us7000h6fm,2022-05-02T21:27:41.040Z,"Bonin Islands, Japan region",earthquake,15.5,2,0.134,16,reviewed,us,us
-2022-05-02T19:40:27.140Z,37.8586667,-121.7985,11.26,2.28,md,52,135,0.04828,0.09,nc,nc73728351,2022-05-03T03:25:10.705Z,"10km SW of Brentwood, CA",earthquake,0.21,0.28,0.178,60,reviewed,nc,nc
