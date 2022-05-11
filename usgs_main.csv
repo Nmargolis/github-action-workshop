@@ -18606,3 +18606,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T20:38:45.510Z,38.8366661,-122.8121643,1.98,0.85,md,11.0,58.0,0.01335,0.01,nc,nc73732281,2022-05-11T20:40:20.304Z,"8km WNW of Cobb, CA",earthquake,0.36,1.08,,1.0,automatic,nc,nc
 2022-05-11T20:33:55.140Z,38.838665,-122.8304977,2.11,0.86,md,6.0,106.0,0.003897,0.02,nc,nc73732266,2022-05-11T20:40:10.723Z,"9km NW of The Geysers, CA",earthquake,0.43,1.43,,1.0,automatic,nc,nc
 2022-05-11T21:02:02.778Z,61.581,-148.0521,9.1,1.2,ml,,,,1.12,ak,ak02260zx01i,2022-05-11T21:04:15.985Z,"32 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-11T21:21:03.170Z,38.8421669,-122.8766632,2.73,1.17,md,16.0,89.0,0.006605,0.03,nc,nc73732301,2022-05-11T21:29:12.021Z,"13km NW of The Geysers, CA",earthquake,0.31,0.63,0.04,3.0,automatic,nc,nc
+2022-05-11T21:13:52.580Z,19.3818333333333,-154.9415,5.67,2.04,md,36.0,226.0,,0.2,hv,hv73009757,2022-05-11T21:26:07.750Z,"10 km SSW of Leilani Estates, Hawaii",earthquake,0.76,0.55,0.118994278719756,15.0,reviewed,hv,hv
