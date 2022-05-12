@@ -18849,3 +18849,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T03:53:41.036Z,31.61416492,-103.9456909,6.825683594,2.9,ml,11.0,63.0,0.1218832055,0.2,tx,tx2022jfqp,2022-05-12T18:09:29.025Z,"34 km WSW of Mentone, Texas",earthquake,1.280295292,2.098265795,0.1,6.0,reviewed,tx,tx
 2022-05-12T18:51:28.370Z,63.1034,-150.882,130.9,3.1,ml,,,,0.39,ak,ak02262lylqk,2022-05-12T18:53:35.215Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-12T04:28:58.326Z,60.2365,-140.7617,9.5,0.8,ml,,,,0.31,ak,ak02262dhnb7,2022-05-12T18:50:32.333Z,"96 km NW of Yakutat, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-05-12T19:10:08.178Z,62.9259,-151.2927,109.3,1.7,ml,,,,0.24,ak,ak02262mb7gw,2022-05-12T19:21:52.526Z,"54 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-12T11:24:17.389Z,52.305,-168.9087,25.6,3.6,ml,,,,0.8,ak,ak02262hmrfa,2022-05-12T19:24:28.175Z,"70 km S of Nikolski, Alaska",earthquake,,5.3,,,reviewed,ak,ak
+2022-05-12T11:00:39.041Z,60.4717,-142.957,9.1,0.6,ml,,,,0.45,ak,ak02262hhnof,2022-05-12T19:19:44.166Z,"107 km S of McCarthy, Alaska",earthquake,,0.3,,,reviewed,ak,ak
