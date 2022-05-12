@@ -18675,3 +18675,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T03:31:00.352Z,60.6517,-150.0943,20.2,2.3,ml,,,,0.89,ak,ak02262cwrad,2022-05-12T03:38:07.391Z,"23 km NW of Cooper Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-12T02:57:43.918Z,-19.8517,-176.8069,294.32,4.8,mb,,127.0,5.3,0.92,us,us6000hkh3,2022-05-12T03:18:18.040Z,"219 km NW of Nuku‘alofa, Tonga",earthquake,12.8,8.2,0.06,85.0,reviewed,us,us
 2022-05-12T01:01:03.131Z,-28.3516,-67.7964,173.75,4.6,mb,,76.0,1.918,0.6,us,us6000hkgv,2022-05-12T03:41:26.040Z,"39 km SW of Tinogasta, Argentina",earthquake,8.1,7.3,0.183,9.0,reviewed,us,us
+2022-05-12T04:05:22.550Z,33.2655,-116.2986667,12.17,1.17,ml,31.0,68.0,0.0817,0.23,ci,ci40016063,2022-05-12T04:09:02.591Z,"7km E of Borrego Springs, CA",earthquake,0.31,0.66,0.157,27.0,automatic,ci,ci
+2022-05-12T03:43:52.000Z,19.1695,-155.482833333333,30.57,1.56,md,16.0,204.0,,0.1,hv,hv73010072,2022-05-12T04:09:38.930Z,"3 km S of Pāhala, Hawaii",earthquake,0.65,0.7,0.100017717655345,13.0,reviewed,hv,hv
