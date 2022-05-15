@@ -19642,3 +19642,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T21:50:46.870Z,38.8325005,-122.8154984,1.86,0.85,md,19.0,53.0,0.01003,0.02,nc,nc73734156,2022-05-15T21:59:12.104Z,"8km NW of The Geysers, CA",earthquake,0.21,0.61,,1.0,automatic,nc,nc
 2022-05-15T22:27:12.130Z,34.8414993,-118.9560013,10.59,1.28,ml,17.0,63.0,0.06707,0.17,ci,ci40019743,2022-05-15T22:29:27.628Z,"2km NNW of Frazier Park, CA",earthquake,0.56,1.16,0.133,3.0,automatic,ci,ci
 2022-05-15T22:20:03.336Z,59.7446,-152.7888,90.0,1.0,ml,,,,0.38,ak,ak02267mrojz,2022-05-15T22:23:16.463Z,"53 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-15T22:34:16.010Z,38.795166,-122.7626648,0.35,0.85,md,8.0,128.0,0.005919,0.02,nc,nc73734171,2022-05-15T22:43:10.399Z,"2km NNW of The Geysers, CA",earthquake,0.45,1.46,,1.0,automatic,nc,nc
+2022-05-15T16:17:04.484Z,26.2043,92.3744,10.0,4.1,mb,,135.0,5.257,1.22,us,us6000hld3,2022-05-15T22:39:35.614Z,"5 km SSE of Morigaon, India",earthquake,11.9,1.9,0.14,14.0,reviewed,us,us
