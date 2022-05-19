@@ -20614,3 +20614,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T14:02:00.983Z,62.0843,-149.5105,45.9,1.1,ml,,,,0.34,ak,ak0226e41qma,2022-05-19T14:14:20.796Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-19T13:55:52.551Z,61.0839,-147.6149,0.0,1.8,ml,,,,1.03,ak,ak0226e3rrxz,2022-05-19T14:07:42.276Z,"56 km WNW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-19T14:34:46.570Z,33.6128349,-117.8861694,9.9,1.42,ml,15.0,120.0,0.2217,0.25,ci,ci40022439,2022-05-19T14:36:52.840Z,"4km E of Newport Beach, CA",earthquake,0.75,3.62,0.478,9.0,automatic,ci,ci
+2022-05-19T03:29:34.300Z,39.4291667,-110.3061667,-1.32,1.59,md,8.0,196.0,0.01551,0.13,uu,uu60498592,2022-05-19T14:55:11.000Z,"15 km SSE of Sunnyside, Utah",earthquake,1.15,0.52,0.258,7.0,reviewed,uu,uu
