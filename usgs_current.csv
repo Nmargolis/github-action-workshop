@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-11T03:34:41.456Z,36.9945,-116.3795,2.9,-0.1,ml,11,98.82,0.025,0.091,nn,nn00846768,2022-09-11T03:37:13.760Z,"35 km ENE of Beatty, Nevada",earthquake,,0.6,1.67,5,automatic,nn,nn
 2022-09-11T03:25:57.460Z,38.833168,-122.8095016,2.15,0.85,md,8,95,0.009769,0.02,nc,nc73780306,2022-09-11T03:27:31.736Z,"8km W of Cobb, CA",earthquake,0.41,1.04,,1,automatic,nc,nc
 2022-09-11T03:25:04.110Z,38.8306656,-122.8026657,1.33,0.85,md,9,75,0.009284,0.01,nc,nc73780301,2022-09-11T03:51:12.305Z,"7km W of Cobb, CA",earthquake,0.32,1.12,,1,automatic,nc,nc
-2022-09-11T03:22:07.679Z,-33.1707,-70.9434,67.339,4.5,mwr,45,88,0.185,0.65,us,us7000i74q,2022-09-11T10:19:46.667Z,"14 km NNW of Lampa, Chile",earthquake,4.63,5.791,,,reviewed,us,guc
+2022-09-11T03:22:07.679Z,-33.1707,-70.9434,67.339,4.5,mwr,45,88,0.185,0.65,us,us7000i74q,2022-09-11T10:54:41.186Z,"14 km NNW of Lampa, Chile",earthquake,4.63,5.791,,,reviewed,us,guc
 2022-09-11T03:16:07.057Z,61.2709,-150.3289,25.8,1.2,ml,,,,0.27,ak,ak022bo4dw8x,2022-09-11T03:18:08.815Z,"21 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-11T03:10:03.370Z,38.8323326,-122.8103333,2.16,0.66,md,13,54,0.008927,0.01,nc,nc73780291,2022-09-11T03:19:10.113Z,"8km W of Cobb, CA",earthquake,0.33,0.8,0.12,2,automatic,nc,nc
 2022-09-11T02:59:33.650Z,33.1543333,-116.0105,5.67,1.37,ml,33,40,0.03346,0.29,ci,ci40098687,2022-09-11T03:03:12.148Z,"11km E of Ocotillo Wells, CA",earthquake,0.37,0.85,0.108,27,automatic,ci,ci
@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T20:44:48.047Z,63.5841,-152.6749,0,1.4,ml,,,,0.95,ak,ak022bmr5090,2022-09-10T20:46:57.945Z,"37 km SSW of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-10T20:41:12.760Z,38.8288345,-122.7981644,1.33,0.46,md,11,66,0.01077,0.02,nc,nc73780106,2022-09-10T20:58:12.021Z,"6km W of Cobb, CA",earthquake,0.29,0.84,0.39,2,automatic,nc,nc
 2022-09-10T20:11:02.394Z,38.1129,-118.0506,2.7,1.1,ml,10,163.32,0.076,0.1421,nn,nn00846741,2022-09-10T20:14:14.856Z,"31 km S of Mina, Nevada",earthquake,,1.2,0.29,5,automatic,nn,nn
-2022-09-10T19:58:44.589Z,58.0509,-157.2447,15,1.6,ml,,,,1.17,ak,ak022bmqmkei,2022-09-10T20:02:21.087Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2022-09-10T19:58:44.589Z,58.0509,-157.2447,15,1.6,ml,,,,1.17,ak,ak022bmqmkei,2022-09-10T20:02:21.087Z,"19 km SSE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-10T19:49:31.404Z,35.10398865,-95.38169098,1.069155097,2.44,ml,24,138.2695084,0.121341452,0.5512064213,ok,ok2022rtya,2022-09-10T19:52:51.751Z,"2 km SSW of Quinton, Oklahoma",earthquake,3.411927035,1.993566226,,18,automatic,ok,ok
 2022-09-10T19:29:38.500Z,33.0466667,-116.3956667,11.94,1.33,ml,35,65,0.1729,0.22,ci,ci40098623,2022-09-10T19:40:13.730Z,"20km E of Julian, CA",earthquake,0.29,1.38,0.172,25,automatic,ci,ci
 2022-09-10T19:20:08.910Z,33.8838333,-116.7398333,17.59,1.01,ml,24,46,0.06931,0.16,ci,ci40098615,2022-09-10T19:24:40.230Z,"6km SE of Cabazon, CA",earthquake,0.27,0.63,0.159,28,automatic,ci,ci
@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T11:06:34.418Z,31.71512829,-104.2967092,7.905419922,2.1,ml,16,63,0.05134307393,0.3,tx,tx2022rtgt,2022-09-10T22:09:03.067Z,"51 km S of Whites City, New Mexico",earthquake,1.599919855,1.286616338,0.2,19,reviewed,tx,tx
 2022-09-10T11:04:23.830Z,38.8195,-122.7928314,2.6,1.17,md,28,47,0.01135,0.02,nc,nc73780041,2022-09-10T11:37:10.629Z,"6km NW of The Geysers, CA",earthquake,0.21,0.39,0.07,5,automatic,nc,nc
 2022-09-10T11:02:00.520Z,17.9676666666667,-66.8955,14.56,2.32,md,7,201,,0.15,pr,pr71370978,2022-09-10T11:31:29.210Z,"1 km SSW of Maria Antonia, Puerto Rico",earthquake,0.67,0.53,0.0476901413499133,5,reviewed,pr,pr
-2022-09-10T10:51:04.601Z,38.5737,-119.4669,7.4,1,ml,12,120.66,0.043,0.2016,nn,nn00846736,2022-09-10T10:55:10.553Z,"3 km ENE of Coleville, California",earthquake,,0.9,0.47,5,automatic,nn,nn
