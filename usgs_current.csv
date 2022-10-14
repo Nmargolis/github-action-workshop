@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-14T11:34:50.240Z,38.8409996,-122.8239975,1.47,0.37,md,10,93,0.00929,0.03,nc,nc73793371,2022-10-14T11:36:27.161Z,"9km WNW of Cobb, CA",earthquake,0.35,0.92,,1,automatic,nc,nc
 2022-10-14T11:32:54.360Z,33.7008333,-116.817,15.55,0.73,ml,20,102,0.07517,0.19,ci,ci40360816,2022-10-14T11:36:34.123Z,"9km SE of Valle Vista, CA",earthquake,0.43,0.6,0.247,18,automatic,ci,ci
+2022-10-14T11:19:32.573Z,13.1387,-89.8771,59.928,4.1,mb,42,192,0.66,0.47,us,us6000itlv,2022-10-14T11:54:28.040Z,"50 km S of Acajutla, El Salvador",earthquake,6.69,9.759,0.093,32,reviewed,us,us
 2022-10-14T11:15:28.947Z,38.5224,-119.5207,0.2,1.2,ml,15,174.03,0.063,0.3397,nn,nn00849244,2022-10-14T11:18:24.237Z,"3 km WNW of Walker, California",earthquake,,0.2,0.14,8,automatic,nn,nn
 2022-10-14T11:05:04.635Z,36.593,-116.2262,7.5,0.5,ml,20,142.8,0.103,0.1483,nn,nn00849241,2022-10-14T11:07:24.240Z,"California-Nevada border region",earthquake,,1,0.78,10,automatic,nn,nn
 2022-10-14T10:49:35.759Z,38.5234,-119.5124,3.8,1.4,ml,19,170.27,0.061,0.2096,nn,nn00849237,2022-10-14T10:52:35.273Z,"California-Nevada border region",earthquake,,0.5,0.15,14,automatic,nn,nn
