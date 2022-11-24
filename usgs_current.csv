@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T21:36:49.310Z,38.8339996,-122.8174973,1.96,0.85,md,13,68,0.01207,0.03,nc,nc73811116,2022-11-24T21:38:26.066Z,"8km NW of The Geysers, CA",earthquake,0.29,0.79,,1,automatic,nc,nc
+2022-11-24T21:31:28.810Z,19.3996658325195,-155.283172607422,4.55000019073486,1.80999994,md,22,40,,0.219999999,hv,hv73234637,2022-11-24T21:34:42.240Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.970000029,1.16999996,12,automatic,hv,hv
 2022-11-24T21:29:17.660Z,19.3901672363281,-155.279159545898,6.34000015258789,1.74000001,md,26,56,,0.209999993,hv,hv73234627,2022-11-24T21:32:17.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.48,0.720000029,0.670000017,13,automatic,hv,hv
 2022-11-24T21:18:20.178Z,31.5725,-115.682,13.519,2.6,ml,21,83,0.201,0.64,us,us7000is6y,2022-11-24T21:31:53.040Z,"60 km ENE of San Vicente, Mexico",earthquake,1.87,6.612,0.06,36,reviewed,us,us
 2022-11-24T20:51:13.477Z,31.61248783,-104.0028423,7.712609863,3,ml,26,35,0.0146823897,0.1,tx,tx2022xbat,2022-11-24T21:10:55.269Z,"38 km NNW of Toyah, Texas",earthquake,0.4348220461,0.3643216909,0.1,14,reviewed,tx,tx
@@ -205,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T21:57:31.340Z,46.43966666666667,-122.33316666666667,13.65,0.9,ml,24,123,0.1199,0.24,uw,uw61887047,2022-11-24T00:06:02.200Z,"13 km SSW of Morton, Washington",earthquake,0.67,1.19,0.12057008033872607,10,reviewed,uw,uw
 2022-11-23T21:56:00.980Z,47.54333333333334,-122.7805,-0.19,1.6600000000000001,ml,10,207,0.006419,0.27,uw,uw61887042,2022-11-23T23:47:11.780Z,"6 km WNW of Gorst, Washington",explosion,1.07,31.61,0.1831376149732714,5,reviewed,uw,uw
 2022-11-23T21:52:19.043Z,61.5785,-151.4057,15.3,0.8,ml,,,,0.31,ak,ak022f15jrdw,2022-11-23T23:05:57.547Z,"45 km S of Skwentna, Alaska",earthquake,,1.5,,,reviewed,ak,ak
-2022-11-23T21:35:12.306Z,59.6678,-150.7654,35.3,2,ml,,,,0.73,ak,ak022f15g472,2022-11-23T21:38:36.634Z,"23 km SSE of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak
