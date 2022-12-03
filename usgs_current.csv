@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-02T23:35:23.850Z,19.2350006103516,-155.375671386719,32.9700012207031,2.16,ml,47,149,,0.159999996,hv,hv73253497,2022-12-02T23:40:55.000Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.6,0.819999993,3.56,13,automatic,hv,hv
+2022-12-02T23:35:23.850Z,19.2350006103516,-155.375671386719,32.9700012207031,2.16,ml,47,149,,0.159999996,hv,hv73253497,2022-12-02T23:59:12.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.6,0.819999993,3.56,13,automatic,hv,hv
 2022-12-02T23:31:25.699Z,57.7508,-154.225,43.4,1.5,ml,,,,0.38,ak,ak022fg2ga0p,2022-12-02T23:33:06.219Z,"24 km NE of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-12-02T23:14:33.230Z,38.7613335,-122.716835,1.09,1.1,md,7,150,0.00628,0.04,nc,nc73814031,2022-12-02T23:43:12.830Z,"3km SW of Anderson Springs, CA",earthquake,0.43,0.42,0.16,8,automatic,nc,nc
+2022-12-02T23:09:22.170Z,8.0635,-72.5289,10,4.8,mb,56,57,2.044,1.15,us,us6000j6gr,2022-12-02T23:58:32.653Z,"16 km NNE of El Zulia, Colombia",earthquake,5.43,1.954,0.144,15,reviewed,us,us
 2022-12-02T22:57:16.589Z,61.3781,-150.6714,17.5,1.2,ml,,,,0.63,ak,ak022fg20e9y,2022-12-02T22:59:29.060Z,"20 km SSW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-02T22:56:17.214Z,63.4284,-147.4227,66.6,1.6,ml,,,,0.46,ak,ak022fg206rv,2022-12-02T22:58:20.064Z,"76 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-02T22:48:46.682Z,36.4338,-114.9471,3.5,2.1,ml,24,205.34,0.183,0.3014,nn,nn00852473,2022-12-02T22:52:02.330Z,"23 km NNE of Nellis Air Force Base, Nevada",earthquake,,2.2,0.92,16,automatic,nn,nn
@@ -252,8 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T00:07:00.580Z,38.7913322,-122.7446671,0.8,0.61,md,7,89,0.01019,0.01,nc,nc73813611,2022-12-02T00:40:12.485Z,"2km NNE of The Geysers, CA",earthquake,0.59,2.53,0.11,9,automatic,nc,nc
 2022-12-02T00:04:55.170Z,33.227,-116.7351667,12.04,0.66,ml,28,41,0.02171,0.14,ci,ci40383424,2022-12-02T19:12:13.410Z,"3km ESE of Lake Henshaw, CA",earthquake,0.23,0.5,0.114,14,reviewed,ci,ci
 2022-12-02T00:04:43.790Z,48.207166666666666,-124.12716666666667,-0.23,1.55,ml,15,55,0.1452,0.72,uw,uw61896966,2022-12-02T00:58:51.310Z,"11 km ESE of Clallam Bay, Washington",earthquake,0.9,2.68,0.108601178331309,7,reviewed,uw,uw
-2022-12-02T00:00:56.939Z,63.2805,-150.0428,13.3,1.1,ml,,,,0.21,ak,ak022ffokqbh,2022-12-02T00:57:38.993Z,"56 km WSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-02T00:00:56.220Z,18.9431666666667,-64.307,11.06,3.19,md,6,319,0.7512,0.26,pr,pr71385018,2022-12-02T00:57:54.763Z,"84 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,10.8,15.32,0.1134764003144,6,reviewed,pr,pr
-2022-12-01T23:55:35.960Z,17.97,-66.9463333333333,9.86,2.41,md,18,185,0.06404,0.17,pr,pr71385008,2022-12-02T00:54:57.265Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.44,0.63,0.160055357325736,8,reviewed,pr,pr
-2022-12-01T23:55:25.200Z,58.237,-155.136,-2.19,-0.85,ml,4,224,,0.05,av,av91078273,2022-12-02T20:38:25.900Z,"84 km NNW of Karluk, Alaska",earthquake,0.56,2.99,0.27672829208658,4,reviewed,av,av
-2022-12-01T23:52:36.020Z,34.0483333,-117.2341667,16.33,1.01,ml,18,139,0.1077,0.08,ci,ci40383416,2022-12-02T18:49:49.022Z,"2km E of Loma Linda, CA",earthquake,0.25,0.4,0.108,16,reviewed,ci,ci
